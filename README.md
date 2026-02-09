@@ -6,16 +6,6 @@
 🎓 **Semester:** 6  
 👨‍🏫 **Professor:** Israel Pineda  
 
----
-
-## 🎯 Lab Goals
-In this lab we worked on two main topics:
-
-1. **Solve recurrence relations** to find a **closed-form** expression ✅  
-2. **Prove the result using mathematical induction** ✅  
-3. Implement **Fibonacci** in **C++** using:
-   - Iteration 🔁
-   - Recursion 🧠
 
 ---
 
@@ -109,22 +99,4 @@ It is very common to model the running time of divide-and-conquer and dynamic pr
 
 ---
 
-## 🚀 How to Run (quick)
-Compile (example):
-```bash
-g++ main.cpp -o main
-./main
-```
 
----
-
-## 📂 Repository Notes
-This repository includes:
-- ✅ Recurrence solutions (closed-form + induction)
-- ✅ Fibonacci iterative and recursive C++ programs
-- ✅ PDF files merged for submission 📄
-
----
-
-### ✅ End of Lab
-Thanks for reading! ⭐
